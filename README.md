@@ -12,5 +12,4 @@ Here's a breakdown of all the files and what they do:
 * **`titanic`**: This is the main event! It's the Python script that holds all my code. It cleans the data, builds the AI model, trains it, and saves the plots.
 * **`titanic.csv`**: This is the raw dataset. It's a big spreadsheet with information about every passenger (like their age, class, and if they survived).
 * **`README.md`**: The file you're reading right now! It's the homepage for the project.
-* **`model_accuracy_plot.png`**: This picture shows how "smart" (accurate) the model got during training.
-* **`model_loss_plot.png`**: This picture shows how many "mistakes" (loss) the model made during training. The goal is to get this number as low as possible.
+* **`model_loss_n_accuracy`**: This picture shows how "smart" (accurate) the model got during training and how many "mistakes" (loss) the model made during training. The goal is to get this number as low as possible.
